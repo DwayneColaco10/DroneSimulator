@@ -1,6 +1,5 @@
 # Drone Simulator 3000
 
-![Drone Simulator Logo](path/to/your/logo.png)
 
 ## Table of Contents
 
@@ -17,7 +16,7 @@
 
 Drone Simulator 3000 is a Java application that simulates a virtual drone arena. The simulator allows users to control drones and observe their movements within the arena. The project aims to provide an interactive and educational experience to learn about drone dynamics and obstacle avoidance.
 
-This project was developed as a part of a software engineering course at [Your University Name].
+This project was developed as a part of my side projects while at university.
 
 ## Features
 
